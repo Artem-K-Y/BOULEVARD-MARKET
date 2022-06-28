@@ -237,6 +237,11 @@ body{
         display: none;
     }
 }
+@media (max-width: 741px){
+    .main-title{
+        text-align: center;
+    }
+}
 @media (max-width: 574px) {
     .block-one img{
         width: 100%;
